@@ -1,0 +1,225 @@
+{
+    "book":[
+        {
+            "id":1,
+            "name":"Basic Electrical Engineering",
+            "price":200,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/bee.png"
+        },
+        {
+            "id":2,
+            "name":"Power systems",
+            "price":400,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/power.jpg"
+        },
+        {
+            "id":3,
+            "name":"Transmission & Distribution",
+            "price":250,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/mission.png"
+        },
+        {
+            "id":4,
+            "name":"Advanced Electrical Engineering",
+            "price":400,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/advelec.jpg"
+        },
+        {
+            "id":5,
+            "name":"Design Electrical Components",
+            "price":500,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/design.jpg"
+        },
+        {
+            "id":6,
+            "name":"SSC JE Electrical Engineering",
+            "price":800,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/ssc.jpg"
+        }
+        ,
+        {
+            "id":7,
+            "name":"Gate objective Electrical Engineering",
+            "price":900,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/gate.jpg"
+        },
+        {
+            "id":8,
+            "name":"Electrical Machines",
+            "price":299,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/machin.jpg"
+        },
+        {
+            "id":9,
+            "name":"Distribution Power systems",
+            "price":250,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/distri.jpg"
+        },
+        {
+            "id":10,
+            "name":"Transformers",
+            "price":250,
+            "author":"JB Gupta",
+            "image":"http://localhost:8090/trans.jpg"
+        }
+    ],
+
+    "overview":[
+        {
+            "id":1,
+            "name":"Basic Electrical Engineering",
+            "price":200,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":200,
+            "image":"bee.png"
+        },
+        {
+            "id":2,
+            "name":"Power systems",
+            "price":400,
+            "author":"JB Gupta",
+             "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":300,
+            "image":"power.jpg"
+        },
+        {
+            "id":3,
+            "name":"Transmission & Distribution",
+            "price":250,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":400,
+            "image":"mission.png"
+        },
+        {
+            "id":4,
+            "name":"Advanced Electrical Engineering",
+            "price":400,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":240,
+            "image":"advelec.jpg"
+        },
+        {
+            "id":5,
+            "name":"Design Electrical Components",
+            "price":500,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":100,
+            "image":"design.jpg"
+        },
+        {
+            "id":6,
+            "name":"SSC JE Electrical Engineering",
+            "price":800,
+            "author":"JB Gupta",
+            
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":500,
+            "image":"ssc.jpg"
+        }
+        ,
+        {
+            "id":7,
+            "name":"Gate objective Electrical Engineering",
+            "price":900,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":1000,
+            "image":"gate.jpg"
+        },
+        {
+            "id":8,
+            "name":"Electrical Machines",
+            "price":299,
+            "author":"JB Gupta",
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":400,
+            "image":"machin.jpg"
+        },
+        {
+            "id":9,
+            "name":"Distribution Power systems",
+            "price":250,
+            "author":"JB Gupta",
+            
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":400,
+            "image":"distri.jpg"
+        },
+        {
+            "id":10,
+            "name":"Transformers",
+            "price":250,
+            "author":"JB Gupta",
+            
+            "description":"An electric power system is a network of electrical components deployed to supply, transfer, and use electric power. An example of a power system is the electrical grid that provides power to homes and industry within an extended area. The electrical grid can be broadly divided into the generators that supply the power, the transmission system that carries the power from the generating centers to the load centers, and the distribution system that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon three-phase AC power—the standard for large-scale power transmission and distribution across the modern world. Specialized power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners, submarines and automobiles.",
+            "pages":1000,
+            "image":"trans.jpg"
+        }
+    ],
+
+    "comments":[
+        {
+            "bookid":1,
+            "user":"Dusa Goutham",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results"
+        },
+        {
+            "bookid":2,
+            "user":"Raj Kumar",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results"
+        },
+        {
+            "bookid":3,
+            "user":"Dusa Laxmi",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":4,
+            "user":"Dusa Rajendar",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":5,
+            "user":"Sirimall laxman",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":6,
+            "user":"Sirimalla Ramya",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":7,
+            "user":"Sirimalla Rithwika",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":8,
+            "user":"Sirimalla Rishank bharatwa",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        },
+        {
+            "bookid":9,
+            "user":"Venkatashwara",
+            "review":"Trusted results for Best Shared Hosting India. Check Visymo Search for the best results!"
+        }
+
+
+
+        
+
+    ]
+}

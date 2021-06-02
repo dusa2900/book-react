@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "goutham",
+      "city": "karimnagar"
+    },
+    {
+      "id": 2,
+      "name": "Dusa Goutham",
+      "city": "Telangana"
+    },
+    {
+      "id": 3,
+      "name": "RajiniKanth",
+      "city": "Chennai"
+    },
+    {
+      "id": "4",
+      "name": "john",
+      "city": "hyd"
+    },
+    {
+      "id": "5",
+      "name": "ramu",
+      "city": "mumbai"
+    },
+    {
+      "id": "6",
+      "name": "kamal",
+      "city": "Tamilndu"
+    },
+    {
+      "id": "7",
+      "name": "Jeevan",
+      "city": "tamilnadu"
+    }
+  ]
+}
