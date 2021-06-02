@@ -1,0 +1,38 @@
+ table{
+    width: 800px;
+    overflow: hidden;
+    
+    
+    margin: 20px;
+    padding: 10px;
+}
+thead{
+    background-color: brown;
+    color: white;
+}
+tbody{
+    background-color: rgb(241, 163, 163);
+    color: black;
+}
+.form
+{
+    border: 2px dotted black;
+    width: 800px;
+}
+
+.card
+{
+    float: left;
+    width: 200px;
+    height: 250px;
+    padding: 2px;
+    margin: 40px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 2px grey;
+    font-weight: bold;
+}
+
+img{
+    width: 150px;
+    height: 120px;
+}
